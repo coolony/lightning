@@ -1,0 +1,24 @@
+{
+  "name": "lightning",
+  "description": "Fast, extensible, asynchronous and simple template engine largely based on jqTpl, compatible with Express 3.x+",
+  "version": "0.1.0",
+  "author": "Pierre Matri <pierre.matri@coolony.com>",
+  "contributors": [ 
+    { "name": "Pierre Matri", "email": "pierre.matri@coolony.com" }
+  ],
+  "dependencies": {
+    "coolony-core-tools": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "underscore": "*",
+    "should": "*"
+  },
+  "keywords": ["ligntning", "template", "web", "express"],
+    "repository": "git://github.com/coolony/lightning",
+    "main": "index",
+  "scripts": {
+    "test": "make test"
+    },
+  "engines": { "node":">= 0.5.0 < 0.7.0" }
+}

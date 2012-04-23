@@ -1,0 +1,2 @@
+{{layout "base.lightning"}}
+{{block loo}}Woo{{/block}}

@@ -1,0 +1,2 @@
+{{layout someLayout}}
+{{block loo}}Doo{{/block}}
